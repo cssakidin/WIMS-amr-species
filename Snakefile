@@ -1,4 +1,4 @@
-SAMPLES="barcode07_test4"
+SAMPLES="INSERT SAMPLE NAME HERE"
 
 rule all:
   input:
